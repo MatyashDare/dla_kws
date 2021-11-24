@@ -1,5 +1,5 @@
 # DLA
-##Keywords Spotting model 
+## Keywords Spotting model 
 ### hw2
 
 | model  | quality | Parameters | MAC|
